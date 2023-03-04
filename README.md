@@ -1,0 +1,53 @@
+
+# BulkyBook-.NET-6-MVC
+
+E-Commerce Website.
+
+
+
+
+
+
+
+
+
+
+
+
+# Used Technologies
+
+## FRONT-END
+
+• HTML
+
+• CSS
+
+• BOOTSTRAP 4
+
+• JAVASCRIPT
+
+• BOOTSWATCH
+
+• ALERTIFY
+
+• TOASTR
+
+• JQUERY
+
+## BACK-END
+
+• C#
+
+• ENTITY FRAMEWORK CORE
+
+• MSSQL
+
+• RAZOR PAGES
+
+• REPOSITORY PATTERN
+
+• UNIT OF WORK
+
+• ASP.NET IDENTITY
+
+• STRIPE
